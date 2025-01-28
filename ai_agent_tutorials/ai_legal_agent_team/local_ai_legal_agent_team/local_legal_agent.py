@@ -1,4 +1,4 @@
-import streamlit as st
+simport streamlit as st
 from phi.agent import Agent
 from phi.knowledge.pdf import PDFKnowledgeBase, PDFReader
 from phi.vectordb.qdrant import Qdrant
